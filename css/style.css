@@ -1,0 +1,54 @@
+body{
+    background: #67BE4B;
+}
+#container legend{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+/* Bordered form */
+form {
+    width:80%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+  
+}
+#container h1{
+    width: 25%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+/* Full-width inputs */
+input[type=text] {
+    width: 25%;
+    padding: 12px 50px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 2px solid #ccc;  
+}
+
+ input[type=pass]{
+    width: 30%;
+    padding: 12px 50px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 2px solid #ccc;  
+}
+/* Set a style for all buttons */
+input[type=submit] {
+    background-color: Blue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+}
+input[type=submit]:hover {
+    background-color: Auto;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
+
